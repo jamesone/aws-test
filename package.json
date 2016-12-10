@@ -1,0 +1,23 @@
+{
+  "name": "aws-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesone/aws-test.git"
+  },
+  "author": "James Wainwright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesone/aws-test/issues"
+  },
+  "homepage": "https://github.com/jamesone/aws-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
